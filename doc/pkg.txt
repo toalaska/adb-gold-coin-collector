@@ -1,0 +1,34 @@
+"C:\Program Files\Java\jdk1.8.0_191\bin\java.exe" "-javaagent:D:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\lib\idea_rt.jar=52828:D:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;D:\toalaska\adb\target\classes;D:\.m2\repository\cn\hutool\hutool-all\5.8.23\hutool-all-5.8.23.jar;D:\.m2\repository\org\projectlombok\lombok\1.18.30\lombok-1.18.30.jar;D:\.m2\repository\com\github\vidstige\jadb\v1.2.1\jadb-v1.2.1.jar;D:\.m2\repository\org\mockito\mockito-core\2.7.17\mockito-core-2.7.17.jar;D:\.m2\repository\net\bytebuddy\byte-buddy\1.6.11\byte-buddy-1.6.11.jar;D:\.m2\repository\net\bytebuddy\byte-buddy-agent\1.6.11\byte-buddy-agent-1.6.11.jar;D:\.m2\repository\org\objenesis\objenesis\2.5\objenesis-2.5.jar;D:\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\.m2\repository\ch\qos\logback\logback-classic\1.2.13\logback-classic-1.2.13.jar;D:\.m2\repository\ch\qos\logback\logback-core\1.2.13\logback-core-1.2.13.jar;D:\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar" net.toalaska.Demo
+22:20:53.609 [main] INFO net.toalaska.Demo - pkg=package:com.hpbr.bosszhipin
+package:com.xyr.gc.scan
+package:com.qiyi.video
+package:com.dianshijia.newlive
+package:com.tyb.smartcontrol
+package:com.meowtv.live
+package:com.tencent.mm
+package:com.sdu.didi.psnger
+package:com.tencent.android.qqdownloader
+package:com.oray.sunlogin
+package:com.fenbi.android.leo
+package:com.github.tvbox.mfans
+package:com.letv.android.client
+package:com.tencent.qqlive
+package:com.xunmeng.pinduoduo
+package:net.evecom.android.mztapp
+package:com.ss.android.article.lite
+package:com.keke.ysh1.tz08051h
+package:com.kuaishou.nebula
+package:com.baidu.BaiduMap
+package:com.kklive.sun
+package:com.qihoo.appstore
+package:com.github.tvbox.pro
+package:com.vson.smarthome
+package:com.free.video
+package:com.ada.tethys.student
+package:com.oray.sunlogin.service
+package:com.eg.android.AlipayGphone
+package:com.greenpoint.android.mc10086.activity
+package:com.cm.live
+
+
+Process finished with exit code 0

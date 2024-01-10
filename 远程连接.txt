@@ -1,0 +1,3 @@
+adb tcpip 6666
+adb connect 192.168.31.138:6666
+adb connect 100.68.197.91:6666

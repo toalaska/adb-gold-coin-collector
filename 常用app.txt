@@ -1,0 +1,26 @@
+微信：com.tencent.mm/com.tencent.mm.ui.LauncherUI
+QQ：com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity
+链家: com.homelink.android/com.homelink.android.SplashScreenActivity
+新浪微博: com.sina.weibo/com.sina.weibo.SplashActivity
+抖音: com.ss.android.ugc.aweme/
+支付宝: com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin
+天猫: com.tmall.wireless/com.tmall.wireless.splash.TMSplashActivity
+京东: com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity
+滴滴: com.sdu.didi.psnger/com.didi.sdk.app.launch.LauncherActivity/com.didi.sdk.app.launch.DidiLoadDexActivity
+高德地图: com.autonavi.minimap/
+今日头条: com.ss.android.article.news/com.ss.android.article.news.activity.LaunchActivity
+携程: ctrip.android.view/ctrip.android.view.view.CtripDeclarationActivity
+去哪儿: com.Qunar/com.mqunar.splash.SplashActivity
+百度: com.baidu.searchbox/com.baidu.searchbox.SplashActivity
+拼多多: com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity
+贝壳: com.lianjia.beike/com.homelink.android.SplashScreenActivity
+爱奇艺: com.qiyi.video/
+腾讯视频: com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity
+网易云音乐：com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity/com.squareup.leakcanary.internal.DisplayLeakActivity
+qq音乐: com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity
+航旅纵横: com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity
+booking.com: com.booking/com.booking.startup.HomeActivity
+知乎: com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity
+华为天气: com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome
+华为图库: com.android.gallery3d/com.huawei.gallery.app.GalleryMain
+华为音乐: com.android.mediacenter/com.android.mediacenter.PageActivity

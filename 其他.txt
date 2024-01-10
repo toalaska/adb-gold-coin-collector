@@ -1,0 +1,10 @@
+com.ss.android.article.search/com.ss.android.article.news.activity.MainActivity
+
+
+adb shell dumpsys window w |findstr \/ |findstr name=
+
+adb shell am start com.dragon.read
+
+com.cat.readall
+
+com.ucmobile.lite/com.uc.browser.InnerUCMobile
